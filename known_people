@@ -1,0 +1,3 @@
+THe file carries pictures of known people. 
+file url is passed to facial_detector.py.
+It is advisable to have all images in the same extension.
