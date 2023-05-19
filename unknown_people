@@ -1,4 +1,4 @@
-Images from the unknown people; This folder carries pictures of people who are also known.
+This folder carries images of faces to be recignised.
 This folder is chosen from the GUI, the path is given automatically to the face recognition process.
 The face recogition program will differentiate between the known individuals and the intruders.
 It is preferable to have same image extensions across all pictures, however it will give postive results in recognising known faces.
