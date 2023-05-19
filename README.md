@@ -1,6 +1,6 @@
 # Face-Recognition
 This application uses a face_recognition library to detect intruders in a visitors directory named (unknown_people).
-In the directory known_people are the image of recognised people.
+In the directory known_people, are the images of recognised people.
 it is advised that all images should have same extension to improve the accuracy of the Face recognition.
 CMax should also be downloaded to help the dlib dependency.
 special thanks to @ageitgey for the amazing libary. Please check out this link: https://github.com/ageitgey/face_recognition
